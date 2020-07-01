@@ -224,7 +224,6 @@ terminado==0.8.3
 testpath==0.4.4
 tokenizers==0.7.0
 toolz==0.10.0
-torch==1.5.1
 torchvision==0.6.0a0+35d732a
 tornado==6.0.3
 tqdm==4.42.1
